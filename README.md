@@ -11,14 +11,14 @@ Raw data has been gathered from Wikipedia and Kaggle which then was extracted, t
 [ratings.csv](https://github.com/taranahassan/Movies-ETL/blob/main/Resources/ratings.csv) from MovieLens <br>
 
 
-#### *[ETL_function_test.ipybn]*(https://github.com/taranahassan/Movies-ETL/blob/main/ETL_function_test.ipynb)<br>
+#### [ETL_function_test.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/ETL_function_test.ipynb)<br>
 ETL function defined to read all 3 data files.<br>
 
-#### *[ETL_clean_wiki_movies.ipynb]*(https://github.com/taranahassan/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)<br>
+#### [ETL_clean_wiki_movies.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)<br>
 Wikipedia movies data extracted and transformed.
 
-#### *[ETL_clean_kaggle_data.ipynb]*(https://github.com/taranahassan/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)<br>
+#### [ETL_clean_kaggle_data.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)<br>
 Kaggle data extracted and transformed.
 
-#### *[ETL_create_database.ipynb]*(https://github.com/taranahassan/Movies-ETL/blob/main/ETL_create_database.ipynb)<br>
+#### [ETL_create_database.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/ETL_create_database.ipynb)<br>
 Movies database created in SQL.
