@@ -12,14 +12,14 @@ The automation process was done by refactoring code and inserting a function. <b
 [ratings.csv](https://github.com/taranahassan/Movies-ETL/blob/main/Resources/ratings.csv) from MovieLens <br>
 
 
-#### [ETL_function_test.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/ETL_function_test.ipynb)
+#### [ETL_function_test.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/notebook/ETL_function_test.ipynb)
 ETL function defined to read all 3 data files.
 
-#### [ETL_clean_wiki_movies.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
+#### [ETL_clean_wiki_movies.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/notebook/ETL_clean_wiki_movies.ipynb)
 Wikipedia movies data extracted and transformed with nested fuctions to clean the data.
 
-#### [ETL_clean_kaggle_data.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)
+#### [ETL_clean_kaggle_data.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/notebook/ETL_clean_kaggle_data.ipynb)
 Kaggle data extracted and transformed by cleaning data within the existing function.
 
-#### [ETL_create_database.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/ETL_create_database.ipynb)
+#### [ETL_create_database.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/notebook/ETL_create_database.ipynb)
 Movies database created in SQL showing elapsed time; within the existing function. 
