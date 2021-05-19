@@ -22,4 +22,4 @@ Wikipedia movies data extracted and transformed with nested fuctions to clean th
 Kaggle data extracted and transformed by cleaning data within the existing function.
 
 #### [ETL_create_database.ipynb](https://github.com/taranahassan/Movies-ETL/blob/main/ETL_create_database.ipynb)
-Movies database created in SQL showing elapsed time; within the existing function.
+Movies database created in SQL showing elapsed time; within the existing function. 
